@@ -1,3 +1,3 @@
-module github.com/niulingyun/edge
+module github.com/inkb/edge
 
 go 1.14
